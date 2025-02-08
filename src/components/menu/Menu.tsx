@@ -10,7 +10,7 @@ export const Menu = () => {
                     <Link href="/">Home</Link>
                 </li>
                 <li>
-                    <Link href="/car">Cars</Link>
+                    <Link href="/cars">Cars</Link>
                 </li>
                 <li>
                     <Link href="/create-car">Create Car</Link>
